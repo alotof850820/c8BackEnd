@@ -1,0 +1,6 @@
+go.mod
+go.sum
+*logs
+.vscode
+config.ini
+static/imgs/*
